@@ -51,7 +51,7 @@ Here are some of my milestone projects (to be updated as I progress!):
 ### **2️⃣ Personal Portfolio** _(Coming Soon!)_
 
 🔹 **Description:** A simple portfolio to showcase my projects.  
-🔹 **Technologies:** HTML, CSS
+🔹 **Technologies:** HTML, CSS  
 🔹 **Status:** ⏳ In Progress
 
 ---
@@ -67,15 +67,15 @@ Here are some of my milestone projects (to be updated as I progress!):
 
 ## 📫 Connect with Me
 
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Lindokuhle-dumakude)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lindokuhle-dumakude-173106321/)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Lindokuhle-dumakude)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lindokuhle-dumakude-173106321/)  
 📧 Email: [lindokuhle.dumakude11@gmail.com](mailto:lindokuhle.dumakude11@gmail.com)
 
 ---
 
 ## 🚀 Fun Facts
 
-💡 I love learning new things and can't wait to build my first website!
+💡 I love learning new things and can't wait to build my first website!  
 💡 I enjoy reading 📕 and playing video games 🎮!
 
 ---
